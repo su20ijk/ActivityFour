@@ -14,6 +14,7 @@ namespace ActivityFour
             Console.WriteLine("Andrew Kim");
             Console.WriteLine("Vanessa Osterberg");
             Console.WriteLine("Ben Tan");
+            Console.WriteLine("WHY");
             Console.ReadKey();
 
           

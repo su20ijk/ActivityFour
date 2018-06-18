@@ -10,7 +10,11 @@ namespace ActivityFour
         public static void Main(string[] args)
         {
             Console.WriteLine("Caleb Liu");
+            Console.WriteLine("Gene Lee");
             Console.ReadKey();
+
+          
+            
         }
     }
 }

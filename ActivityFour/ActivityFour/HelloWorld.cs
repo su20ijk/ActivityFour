@@ -7,5 +7,10 @@ namespace ActivityFour
 {
     public class HelloWorld
     {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Caleb Liu");
+            Console.ReadKey();
+        }
     }
 }

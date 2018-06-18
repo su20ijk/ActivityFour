@@ -12,6 +12,7 @@ namespace ActivityFour
             Console.WriteLine("Caleb Liu");
             Console.WriteLine("Gene Lee");
             Console.WriteLine("Andrew Kim");
+            Console.WriteLine("Vanessa Osterberg");
             Console.ReadKey();
 
           
